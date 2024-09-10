@@ -3,7 +3,7 @@ import java.util.*;
 public class Anagrams {
 	public static void main(String[] args) {
 		// Welcome message
-		System.out.println("Welcome to the anagram finder!\n");
+		System.out.println("Welcome to the Anagrams finder!\n");
 
 		// Check if the command-line argument is provided
 		if (args.length != 1) {
